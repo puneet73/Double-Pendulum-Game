@@ -1,0 +1,1 @@
+You can move the pendulums by using Mouse (ensure gravity is on initially) and then the path tracing of the pendulums will start , then it can be played with various options in the project .
