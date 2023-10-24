@@ -1,1 +1,2 @@
-You can move the pendulums by using Mouse (ensure gravity is on initially) and then the path tracing of the pendulums will start , then it can be played with various options in the project .
+Video Demo of the Features of the Double Pendulum Simulator :
+https://github.com/puneet73/Double-Pendulum-Game/assets/93940651/86592031-26de-4ef5-b790-7d8107f10aa6
